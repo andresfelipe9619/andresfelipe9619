@@ -29,5 +29,5 @@ Expanding my expertise in GIS and real-time data visualization.
 ## 🤝 Let's Connect
 I'm always on the lookout for new challenges and opportunities to collaborate. Whether you're interested in discussing a project, sharing ideas, or just saying hi, feel free to reach out!
 
-LinkedIn: https://www.linkedin.com/in/andrés-felipe-suárez-villegas-82b6a8154/
-Email: andresfelipe9619@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-felipe-suárez-villegas-82b6a8154)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suarezdev96)
