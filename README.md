@@ -10,6 +10,7 @@
 ![Leaflet](https://img.shields.io/badge/-Leaflet-%231EB1FC?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%23232F3E?style=for-the-badge&logo=cypress&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%233399CC.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 
 Welcome to my GitHub profile! I'm a passionate software developer with over 7 years of experience crafting innovative solutions across a broad range of technologies. From dynamic web applications to complex GIS and web scrapping projects, my journey has been driven by a love for solving problems and pushing the boundaries of what's possible.
 
