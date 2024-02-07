@@ -2,6 +2,14 @@
 
 ## Senior Full Stack Developer | GIS Expert | Web Scrapper Specialist
 ![](https://hit.yhype.me/github/profile?user_id=26072242)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Leaflet](https://img.shields.io/badge/-Leaflet-%231EB1FC?style=for-the-badge&logo=Leaflet&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%23232F3E?style=for-the-badge&logo=cypress&logoColor=white)
 
 Welcome to my GitHub profile! I'm a passionate software developer with over 7 years of experience crafting innovative solutions across a broad range of technologies. From dynamic web applications to complex GIS and web scrapping projects, my journey has been driven by a love for solving problems and pushing the boundaries of what's possible.
 
