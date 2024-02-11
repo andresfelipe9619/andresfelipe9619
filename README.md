@@ -1,7 +1,6 @@
 # Hello, I'm Andrés Suárez 👋
 
 ## Senior Full Stack Developer | GIS Expert | Web Scrapper Specialist
-![](https://hit.yhype.me/github/profile?user_id=26072242)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,3 +30,4 @@ I'm always on the lookout for new challenges and opportunities to collaborate. W
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-felipe-suárez-villegas-82b6a8154)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suarezdev96)
+![](https://hit.yhype.me/github/profile?user_id=26072242)
